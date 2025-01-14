@@ -1,0 +1,2 @@
+find . -type f -name '._*' -exec rm {} \;
+  -->supprimer tous les fichier qui commence avec ._
